@@ -27,3 +27,5 @@ with :
 - cargo build
 - cargo run 
 
+## docs
+- [medium](https://andriantriputra.medium.com/be-rust-getting-started-with-modbus-rtu-and-sht20-sensor-in-rust-59dbfc39bfcb)
